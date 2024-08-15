@@ -79,3 +79,25 @@
 .item.active .title {
     animation: toActive 0.6s ease-in-out 1;
 }
+
+@media screen and (max-width: 500px) {
+ 
+    .fruit {
+        width: 106%;
+    }
+
+    .refri {
+        width: 282px;
+    }
+
+    .title {
+        font-size: 5rem;
+    }
+
+    #prev,#next {
+        top: 60%;
+        width: 39px;
+        height: 39px;
+    }
+
+}
