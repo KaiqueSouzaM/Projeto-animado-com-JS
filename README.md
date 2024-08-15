@@ -13,7 +13,7 @@
 <br>
 <h2 align="center">Relatório</h2>
 
-<p>Nesse projeto consegui aprimoarar ainda mais os meus estudos que venho aprendendo no DevClub,onde estou iniciando no JavaScript.Tivemos vários desafios,onde com auxilio de nosso mentor Rodolfo conseguimos completar esse projeto com grande aproveitamento.</p>
+<p>Nesse projeto consegui aprimoarar ainda mais os meus estudos que venho aprendendo no DevClub,onde estou iniciando no JavaScript.Tivemos vários desafios,onde com auxilio de nosso mentor Rodolfo conseguimos completar esse projeto com grande aproveitamento.Esse projeto também conta com a Responsividade,para que se possa acessar de todas as plataformas de mídia visual.</p>
 
 <br>
 <br>
